@@ -488,7 +488,14 @@ BadWords = [
 ".xyz",
 ".io",
 "nazi",
-"jew"
+"jew",
+"rosetoy",
+"rose toy",
+"rose-toy",
+"rose_toy",
+"dildo",
+"dilly"
 ]
 
 ExtendedBadWords = []
+
